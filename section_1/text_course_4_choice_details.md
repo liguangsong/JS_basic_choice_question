@@ -4,4 +4,4 @@ B.JavaScript要运行必须安装Java运行环境
 C.JavaScript一般用于在网页上实现数据验证及特效等
 D.JavaScript可于开发Windows应用程序
 答案:JavaScript一般用于在网页上实现数据验证及特效等
-解释:JavaScript一般用于在网页上实现数据验证及特效等
+解释:
