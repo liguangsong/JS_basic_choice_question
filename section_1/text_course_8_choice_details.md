@@ -3,5 +3,5 @@ A.var obj = ();
 B.var obj = "string";
 C.var obj = 15;
 D.var obj = "";
-答案: var obj = ();
+答案:var obj = ();
 解释:
