@@ -1,0 +1,24 @@
+{
+    "basic": {
+        "show_name": "JS基础选择题",
+        "id_name":   "js_basic_choice_question",
+        "desc": "javascript基础选择题",
+        "target_effect": {
+            "name": "流行元素",
+            "desc": "\"流行元素\"是一款提供给HTML初学者的学习应用，我们通过\"流行元素\"的案例学习HTML中常用的各种标签以及页面框架",
+            "href": "/super_show/js_console.html"
+        },
+        "order": 35,
+        "ico": "/images/JS.png",
+        "title_ico": "/images/Javascript.png",
+        "version": "2.3.0"
+
+    },
+    "relevance": {
+        "type": "path",
+        "column": "_id",
+        "index": {
+            "id_name": "Javascript"
+        }
+    }
+}
