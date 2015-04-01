@@ -9,7 +9,7 @@
     //console.log('Line 1');
     //console.log('Line 2');
 是等价的
-A是
-B否
+A.是
+B.否
 答案:是
 解释:
