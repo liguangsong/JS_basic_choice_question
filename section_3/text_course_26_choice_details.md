@@ -1,0 +1,9 @@
+题目:下面不是javascript关键字的是?
+A.throw
+B.with
+C.delete
+D.because
+E.default
+F.finally
+答案:because;
+解释:
