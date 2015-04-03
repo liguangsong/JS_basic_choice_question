@@ -6,5 +6,5 @@
 A.number
 B.string
 
-答案：string
+答案:string
 解释:

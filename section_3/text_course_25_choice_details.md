@@ -4,5 +4,5 @@ console.log(NaN == NaN)
 A.false
 B.true
 
-答案：false
+答案:false
 解释:
