@@ -2,5 +2,5 @@
 A. nil;
 B. ''
 C. undefined
-答案:''
+答案:undefined
 解释:
