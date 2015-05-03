@@ -2,7 +2,7 @@
 
     var hello="world";
     var world="hello";
-    console.log(hellow==world);
+    console.log(hello==world);
 
 上述代码的打印结果是什么？
 A.true

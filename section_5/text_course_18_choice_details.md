@@ -7,4 +7,4 @@
 A.string
 B.number
 答案:number
-解释:
+解释:因为str++就变成了NaN
