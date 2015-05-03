@@ -2,6 +2,6 @@
 A.JavaScript与Java语法完全一样
 B.JavaScript要运行必须安装Java运行环境
 C.JavaScript一般用于在网页上实现数据验证及特效等
-D.JavaScript可于开发Windows应用程序
+D.JavaScript不可用于开发Windows应用程序
 答案:JavaScript一般用于在网页上实现数据验证及特效等
-解释:
+解释: 一个语言是否能开发某种应用程序与语言无关，是由运行环境限制的，从Windows 8开始 Javascript已经可以开发Windows应用程序，因为运行环境提供了相关能力。

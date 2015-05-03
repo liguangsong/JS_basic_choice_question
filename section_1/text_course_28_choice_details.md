@@ -1,7 +1,7 @@
 题目:
 
     var age=9;
-    console.log(“小明的年龄是：”+age+”岁”)
+    console.log("小明的年龄是："+age+"岁")
 上面这段话的打印结果是：
 A.小明的年龄是age岁
 B.小明的年龄是+9+岁

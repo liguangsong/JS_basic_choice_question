@@ -13,8 +13,8 @@ B.
 		"<div id = 'footer' class = 'footer'></div>"
 C.
 
-		<div id = 'footer' class = 'footer'></div>
+		<div id = footer class ='footer'></div>
 答案:
 
-		"<div id = 'footer' class = 'footer'></div>"
+		"<div id = 'footer' class ='footer'></div>"
 解释:

@@ -2,6 +2,6 @@
 A.JScript是javascript的简称.
 B.javascript是网景公司开发的一种Java脚本语言,目的是为了简化Java的开发难度.
 C.AJAX技术一定要使用javascript技术
-D.以上说法都不正确
-答案:以上说法都不正确
-解释:
+D.ActionScript与JavaScript没有任何关系
+答案:ActionScript与JavaScript没有任何关系
+解释:因为AJAX的全称是 Asynchronous JavaScript And XML，所以如果说异步前端技术的话，不一定非要用Javascript实现。而AJAX的话，当然必须有Javascript。ActionScript从2.0开始就是ECMAScript的一个实现了，所以跟Javascript同属ECMAScript，不可能是没有关系的。
