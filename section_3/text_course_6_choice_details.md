@@ -3,7 +3,7 @@
     var a = '';
     var b;
 
-问a和b的值分别为什么
+问a和b的值分别是什么
 A.'',''
 B.undefined,undefined
 C.'',undefined

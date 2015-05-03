@@ -6,7 +6,7 @@
         number: 29
     }
 
-    console.log(student["name"], type(student["number"]));
+    console.log(student["name"], typeof(student["number"]));
 
 打印结果为：
 A.xiaoming,29

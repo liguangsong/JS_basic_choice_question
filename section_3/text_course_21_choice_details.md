@@ -4,5 +4,5 @@ console.log(typeof undefined)
 A.string
 B.undefined
 
-答案:string
+答案:undefined
 解释:
