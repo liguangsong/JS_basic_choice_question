@@ -2,7 +2,7 @@
 
     var x = 4;
     var y = 1;
-    coy += ++x;
+    y += ++x;
     console.log(y++);
 
 上述代码的打印结果是什么？
