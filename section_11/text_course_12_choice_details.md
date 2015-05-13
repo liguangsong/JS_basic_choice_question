@@ -1,0 +1,7 @@
+对于Session和Cookie的描述正确的是
+A.Session和Cookie是一种事物的两种不同称呼
+B.Cookie是保存在服务端的
+C.Session是必须有Cookie支持的
+D.Session和Cookie都可以用于保存用户状态
+答案:Session和Cookie都可以用于保存用户状态
+解释:
