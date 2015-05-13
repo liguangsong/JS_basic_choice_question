@@ -1,12 +1,11 @@
 题目:
 
-    var num=2;
-    if(num===2){
-     console.log("true")
-     }
-    else{
-     console.log("false")
-     };
+    var num = 2;
+    if(num === 2){
+        console.log("true")
+    }else{
+        console.log("false")
+    };
     
 
 上述代码的打印结果是什么？

@@ -1,7 +1,10 @@
-题目: if(''){
-console.log(true)}else{
-console.log(false)
-}
+题目: 
+
+    if(''){
+        console.log(true)
+    }else{
+        console.log(false)
+    }
 
 的输出结果为
 A.true

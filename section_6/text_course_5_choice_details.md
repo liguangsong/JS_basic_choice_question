@@ -5,6 +5,8 @@
     {
         console.log(name);
     }
+ 
+上述代码的打印结果是什么？
 A.""
 B.name
 C.Jack
